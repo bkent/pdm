@@ -1,0 +1,5 @@
+location: 2
+mysqlip: localhost
+mysqluser: root
+mysqlpass: root
+
